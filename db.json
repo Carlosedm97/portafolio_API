@@ -13,16 +13,16 @@
             "image": "https://i.ibb.co/G278zdv/alurageek.png",
             "name": "AluraGeek",
             "description": "Desarrollo de un Ecommerce como desafío de la ruta 'Front End' de la formación Oracle Next Education.",
-            "demo": "https://github.com/Carlosedm97/alurageek_ONE",
-            "code": "https://alurageek-one-carlosedm97.vercel.app/"
+            "demo": "https://alurageek-one-carlosedm97.vercel.app/",
+            "code": "https://github.com/Carlosedm97/alurageek_ONE"
         },
         {
             "id": "3",
             "image": "https://i.ibb.co/0VDG4Pc/aluraflix.png",
             "name": "AluraFlix",
             "description": "Desarrollo de una página web de videos como desafío de la ruta 'React JS' de la formación Oracle Next Education.",
-            "demo": "https://github.com/Carlosedm97/aluraflix_ONE",
-            "code": "https://aluraflix-one-alpha.vercel.app/"
+            "demo": "https://aluraflix-one-alpha.vercel.app/",
+            "code": "https://github.com/Carlosedm97/aluraflix_ONE"
         },
         {
             "id": "4",
